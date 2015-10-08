@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.author       = { "Kochava" => "support@kochava.com" }
   s.platform     = :ios, '8.0'
   s.source       = {
-    :git => "https://github.com/Kochava/kochava-cocoapod.git",
+    :git => "https://bitbucket.org/minibar/kochava-cocoapod.git",
     :tag => version,
   }
   s.source_files = 'TrackAndAd.h'
