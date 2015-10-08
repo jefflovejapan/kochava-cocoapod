@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  version = "20151005"
+  version = "20151008"
 
   s.name         = "Kochava"
   s.version      = version
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   }
 
   s.author       = { "Kochava" => "support@kochava.com" }
-  s.platform     = :ios, '6.0'
+  s.platform     = :ios, '8.0'
   s.source       = {
     :git => "https://github.com/Kochava/kochava-cocoapod.git",
     :tag => version,
